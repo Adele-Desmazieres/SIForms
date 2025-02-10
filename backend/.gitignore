@@ -1,0 +1,4 @@
+venv_local/
+.env
+django_debug.log
+**/__pycache__/
